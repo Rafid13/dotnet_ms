@@ -79,3 +79,4 @@ C:\Code\dotnet\mangoms\Services\Mango.Services.CouponAPI\bin\Debug\net8.0\runtim
 C:\Code\dotnet\mangoms\Services\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Code\dotnet\mangoms\Services\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Code\dotnet\mangoms\Services\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Code\dotnet\mangoms\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
